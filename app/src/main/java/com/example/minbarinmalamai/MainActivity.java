@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
         myWebView.loadUrl("https://minbarinmalamai.com/");
         myWebView.setWebViewClient(new WebViewClient());
 
-
     }
 
     @Override
